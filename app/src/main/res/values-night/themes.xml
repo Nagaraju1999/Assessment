@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark-mode variant, automatically selected by Android when the
+         system is in dark mode (values-night/ qualifier). Matches
+         StockTrackerTheme's SurfaceDark color so the pre-Compose launch
+         frame and the first composed frame are visually continuous. -->
+    <style name="Theme.StockTracker" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>

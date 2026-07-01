@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme for light mode. Compose applies its own
+         Material3 theming on top of this — this style only sets the window
+         background so the pre-Compose launch frame matches the eventual
+         light surface color instead of flashing the wrong color. -->
+    <style name="Theme.StockTracker" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>

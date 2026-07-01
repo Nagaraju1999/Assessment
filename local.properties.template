@@ -1,0 +1,13 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# local.properties — NEVER commit this file to version control.
+# It is listed in .gitignore.
+# ─────────────────────────────────────────────────────────────────────────────
+#
+# REQUIRED: Add your Finnhub API key below.
+# Get a free key at: https://finnhub.io/register
+#
+FINNHUB_API_KEY=your_finnhub_api_key_here
+
+# SDK location — auto-populated by Android Studio. 
+# On Windows it will look like: sdk.dir=C\:\\Users\\yourname\\AppData\\Local\\Android\\Sdk
+sdk.dir=/path/to/your/Android/sdk
