@@ -202,7 +202,7 @@ No third-party charting library is used — a single-series line chart is well w
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-org/StockMarketTracker.git
+   git clone https://github.com/Nagaraju1999/Assessment.git
    cd StockMarketTracker
    ```
 
